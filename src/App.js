@@ -1,9 +1,9 @@
-
+import Home from './components/Home'
 
 function App() {
   return (
     <div className="App">
-     Continuous Integration Template
+      <Home/>
     </div>
   );
 }
