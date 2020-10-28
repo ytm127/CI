@@ -34,4 +34,4 @@ jobs:
       # Runs build  
       - name: run build
         run: npm i
-        run: npm run build
+        run: npm build
