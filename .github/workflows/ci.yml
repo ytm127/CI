@@ -33,4 +33,4 @@ jobs:
           echo test, and deploy your project.
       # Runs snapshot tests 
       - name: run tests here
-        run: npm run test
+        run: npm test a
